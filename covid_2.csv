@@ -1,0 +1,244 @@
+location,continent,totaldeathcount
+"United States","North America",2254304
+Brazil,"South America",1404232
+India,Asia,1066868
+Russia,Europe,803546
+Mexico,"North America",669916
+"United Kingdom",Europe,464224
+Peru,"South America",443166
+Italy,Europe,391610
+Germany,Europe,349958
+France,Europe,335970
+Indonesia,Asia,324066
+Iran,Asia,293554
+Colombia,"South America",285454
+Argentina,"South America",261398
+China,Asia,243832
+Spain,Europe,243704
+Poland,Europe,241100
+Ukraine,Europe,219836
+"South Africa",Africa,205190
+Turkey,Asia,202838
+Japan,Asia,149388
+Romania,Europe,137338
+Philippines,Asia,133728
+Chile,"South America",131304
+Canada,"North America",108670
+Hungary,Europe,98026
+Czechia,Europe,86932
+Vietnam,Asia,86412
+Greece,Europe,77444
+Bulgaria,Europe,77342
+Malaysia,Asia,74646
+Ecuador,"South America",72058
+"South Korea",Asia,71868
+Thailand,Asia,69198
+Belgium,Europe,68678
+Pakistan,Asia,61312
+Bangladesh,Asia,58960
+Tunisia,Africa,58846
+Portugal,Europe,56120
+Sweden,Europe,53982
+Iraq,Asia,50750
+Egypt,Africa,49660
+Australia,Oceania,48854
+Netherlands,Europe,45972
+Austria,Europe,45068
+Bolivia,"South America",44770
+Slovakia,Europe,42434
+Guatemala,"North America",40402
+Paraguay,"South America",39912
+Myanmar,Asia,38988
+Kazakhstan,Asia,38144
+Croatia,Europe,37374
+Serbia,Europe,36114
+Georgia,Asia,34264
+"Sri Lanka",Asia,33786
+"Bosnia and Herzegovina",Europe,32764
+Morocco,Africa,32602
+Switzerland,Europe,28348
+Jordan,Asia,28244
+Israel,Asia,25414
+Moldova,Europe,24380
+Nepal,Asia,24062
+Finland,Europe,22846
+Honduras,"North America",22228
+Lebanon,Asia,21894
+Azerbaijan,Asia,20706
+"North Macedonia",Europe,19926
+Slovenia,Europe,19868
+Lithuania,Europe,19564
+"Saudi Arabia",Asia,19292
+Denmark,Europe,18872
+Ireland,Europe,18866
+"Costa Rica","North America",18736
+Armenia,Asia,17550
+Panama,"North America",17342
+Cuba,"North America",17060
+Afghanistan,Asia,15950
+Uruguay,"South America",15320
+Ethiopia,Africa,15148
+Latvia,Europe,14930
+Belarus,Europe,14236
+Algeria,Africa,13762
+Libya,Africa,12874
+"Puerto Rico","North America",11876
+Venezuela,"South America",11712
+Zimbabwe,Africa,11474
+Norway,Europe,11464
+Palestine,Asia,11416
+Kenya,Africa,11378
+Sudan,Africa,10092
+Oman,Asia,9256
+"Trinidad and Tobago","North America",8780
+"Dominican Republic","North America",8768
+"El Salvador","North America",8460
+Namibia,Africa,8206
+Zambia,Africa,8138
+"New Zealand",Oceania,7444
+Uganda,Africa,7264
+Albania,Europe,7210
+Jamaica,"North America",7182
+Kosovo,Europe,6424
+Syria,Asia,6326
+Nigeria,Africa,6310
+Cambodia,Asia,6112
+Estonia,Europe,5972
+Botswana,Africa,5600
+Malawi,Africa,5372
+Montenegro,Europe,5308
+Kuwait,Asia,5140
+"United Arab Emirates",Asia,4698
+Mongolia,Asia,4568
+Mozambique,Africa,4500
+Yemen,Asia,4318
+Cameroon,Africa,3948
+Senegal,Africa,3942
+Singapore,Asia,3908
+Angola,Africa,3874
+Bahrain,Asia,3072
+"Democratic Republic of Congo",Africa,2936
+Rwanda,Africa,2936
+Ghana,Africa,2924
+Eswatini,Africa,2854
+Madagascar,Africa,2852
+Suriname,"South America",2808
+Cyprus,Europe,2730
+Somalia,Africa,2722
+Guyana,"South America",2598
+Martinique,"North America",2208
+Mauritius,Africa,2120
+Kyrgyzstan,Asia,2048
+Guadeloupe,"North America",2044
+Uzbekistan,Asia,2032
+Luxembourg,Europe,2000
+Mauritania,Africa,1994
+Reunion,Africa,1848
+Malta,Europe,1800
+Fiji,Oceania,1770
+Haiti,"North America",1720
+Tanzania,Africa,1692
+Bahamas,"North America",1688
+"Cote d'Ivoire",Africa,1670
+Mali,Africa,1486
+Lesotho,Africa,1418
+"Papua New Guinea",Oceania,1400
+Qatar,Asia,1380
+Belize,"North America",1376
+Laos,Asia,1342
+"French Polynesia",Oceania,1300
+Barbados,"North America",1186
+Guinea,Africa,936
+Guam,Oceania,838
+"Cape Verde",Africa,834
+"French Guiana","South America",826
+"Saint Lucia","North America",820
+"Burkina Faso",Africa,800
+Congo,Africa,778
+Gambia,Africa,744
+Maldives,Asia,632
+Niger,Africa,630
+"New Caledonia",Oceania,628
+Gabon,Africa,614
+Curacao,"North America",610
+Liberia,Africa,588
+Aruba,"North America",584
+Togo,Africa,580
+Nicaragua,"North America",490
+Grenada,"North America",476
+"Solomon Islands",Oceania,398
+Chad,Africa,388
+Djibouti,Africa,378
+Mayotte,Africa,374
+Iceland,Europe,372
+"Equatorial Guinea",Africa,366
+Brunei,Asia,356
+Guinea-Bissau,Africa,354
+Seychelles,Africa,344
+Bermuda,"North America",330
+Benin,Africa,326
+Jersey,Europe,322
+Comoros,Africa,320
+Andorra,Europe,318
+"South Sudan",Africa,294
+"Antigua and Barbuda","North America",292
+Timor,Asia,276
+"United States Virgin Islands","North America",264
+"San Marino",Europe,252
+"Sierra Leone",Africa,252
+Tajikistan,Asia,250
+"Saint Vincent and the Grenadines","North America",248
+"Isle of Man",Europe,232
+"Central African Republic",Africa,226
+Gibraltar,Europe,226
+Eritrea,Africa,206
+"Sint Maarten (Dutch part)","North America",184
+Liechtenstein,Europe,178
+"Sao Tome and Principe",Africa,160
+Dominica,"North America",148
+Guernsey,Europe,134
+Monaco,Europe,134
+"Micronesia (country)",Oceania,130
+"British Virgin Islands","North America",128
+"Saint Kitts and Nevis","North America",92
+"Saint Martin (French part)","North America",92
+"Bonaire Sint Eustatius and Saba","North America",84
+"Northern Mariana Islands",Oceania,82
+"Turks and Caicos Islands","North America",80
+"Cayman Islands","North America",74
+"American Samoa",Oceania,68
+Samoa,Oceania,62
+"Faeroe Islands",Europe,56
+Kiribati,Oceania,48
+Bhutan,Asia,42
+Greenland,"North America",42
+"Marshall Islands",Oceania,34
+Burundi,Africa,30
+Vanuatu,Oceania,28
+Anguilla,"North America",24
+Tonga,Oceania,24
+Palau,Oceania,18
+Montserrat,"North America",16
+"Wallis and Futuna",Oceania,16
+"Saint Barthelemy","North America",10
+"Cook Islands",Oceania,4
+"Saint Pierre and Miquelon","North America",4
+Nauru,Oceania,2
+Tuvalu,Oceania,2
+England,Europe,0
+"Falkland Islands","South America",0
+"Hong Kong",Asia,0
+Macao,Asia,0
+Niue,Oceania,0
+"North Korea",Asia,0
+"Northern Cyprus",Asia,0
+"Northern Ireland",Europe,0
+Pitcairn,Oceania,0
+"Saint Helena",Africa,0
+Scotland,Europe,0
+Taiwan,Asia,0
+Tokelau,Oceania,0
+Turkmenistan,Asia,0
+Vatican,Europe,0
+Wales,Europe,0
+"Western Sahara",Africa,0
